@@ -38,9 +38,7 @@ Emotion Detection adalah proyek machine learning yang dapat mengenali emosi waja
    Setelah model dilatih/di-load, jalankan sel prediksi webcam. Tekan `q` untuk keluar dari mode webcam.
 
 ## Contoh Hasil
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2f4edf09-4e04-4dc3-8b7a-e41987cdf23c" alt="My Image" width="400"/>
-</p>
+![Alt Text](https://github.com/user-attachments/assets/2f4edf09-4e04-4dc3-8b7a-e41987cdf23c)
 
 ## Kontributor
 - Ariel Yosua Hasibuan (105222004)
